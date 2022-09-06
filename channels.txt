@@ -256,13 +256,13 @@
 {
 "name": "NATIONAL GEO",
 "image": "https://i.ibb.co/0DRyycB/NatGeo.jpg",
-"url": "acestream://887d91ccc27fd4f3097d6df09448ea7bac8910f4",
+"url": "acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1",
 "isHost":"true"
 },
 {
 "name": "Historia",
 "image": "https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png",
-"url": "acestream://8bc9696c5b07b723186ac224f5269f02db6dde8e",
+"url": "acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6",
 "isHost": true
 },
 {
