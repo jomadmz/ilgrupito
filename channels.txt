@@ -136,25 +136,25 @@
 {
 "name": "M.Campeones 3 1080",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://612eed86f1ec250ebff3649e74e6729687c456f7",
+"url": "acestream://f2b785193cfa99c581287be39e2fb5a73827957b",
 "isHost": true
 },
 {
 "name": "M.Campeones 4 SD",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://f2b785193cfa99c581287be39e2fb5a73827957b",
+"url": "acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737",
 "isHost": true
 },
 {
 "name": "M.Campeones 5 SD",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487",
+"url": "acestream://662cceb5a2b23f2150172df24247fa220d8d95d4",
 "isHost": true
 },
 {
 "name": "M.Campeones 6 SD",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://8446f55486c0d8c39c7dda19f8dfb071ddca4c94",
+"url": "acestream://a2e878fbab5dff0e2cda01e74a88c7b32eb67913",
 "isHost": true
 },
 {
