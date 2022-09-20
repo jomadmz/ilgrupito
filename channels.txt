@@ -314,51 +314,51 @@
 "isHost": true
 },
 {
-"name": "VACIO",
-"image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
-"url": "acestream://488450bbdaba740ce121c6ee19c8a81335832dc3/",
+"name": "DAZN F1",
+"image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
+"url": "acestream://b13deca329dfd6b9a670faba1077b73f6ea7e188",
 "isHost": true
 },
 {
-"name": "VACIO",
-"image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
-"url": "acestream://488450bbdaba740ce121c6ee19c8a81335832dc3/",
+"name": "#Ellas 1080",
+"image": "https://satcesc.com/wp-content/uploads/2018/08/Ellas.jpg",
+"url": "acestream://107acd31600d0fdcdbac2065171c39042f3369c7",
 "isHost": true
 },
 {
-"name": "VACIO",
-"image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
-"url": "acestream://488450bbdaba740ce121c6ee19c8a81335832dc3/",
+"name": "M.Campeones 1080",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6",
 "isHost": true
 },
 {
-"name": "VACIO",
-"image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
-"url": "acestream://488450bbdaba740ce121c6ee19c8a81335832dc3/",
+"name": "M.Campeones 2 1080",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13",
 "isHost": true
 },
 {
-"name": "VACIO",
-"image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
-"url": "acestream://488450bbdaba740ce121c6ee19c8a81335832dc3/",
+"name": "M.Campeones 3 1080",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://bb9ec0db8db136f4fcd8986b8681048e2bd95bf1",
 "isHost": true
 },
 {
-"name": "VACIO",
-"image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
-"url": "acestream://488450bbdaba740ce121c6ee19c8a81335832dc3/",
+"name": "M.Campeones 4 1080",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://297fab10d7364ca1991fa43fcff469573688ce7a",
 "isHost": true
 },
 {
-"name": "VACIO",
-"image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
-"url": "acestream://488450bbdaba740ce121c6ee19c8a81335832dc3/",
+"name": "DAZN LaLiga 1080",
+"image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
+"url": "acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd",
 "isHost": true
 },
 {
-"name": "VACIO",
-"image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
-"url": "acestream://488450bbdaba740ce121c6ee19c8a81335832dc3/",
+"name": "M.Deportes 1080",
+"image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
+"url": "acestream://d580d53613be09c7a5388d808509f6c97ec07df2",
 "isHost": true
 },
 {
