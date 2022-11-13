@@ -10,7 +10,7 @@
 {
 "name": "#VAMOS",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/640px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png",
-"url": "acestream://069431a1199eb2545a14c0a724095e57bdc58e9c",
+"url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775",
 "isHost": true
 },
 {
@@ -34,7 +34,7 @@
 {
 "name": "M. La Liga 1080 MULTIAUDIO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175",
+"url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862",
 "isHost": true
 },
 {
@@ -52,7 +52,7 @@
 {
 "name": "M. LaLiga 720",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://df139bbcd7ae6825b46d5955c52d639f1215346a",
+"url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664",
 "isHost": true
 },
 {
@@ -130,139 +130,145 @@
 {
 "name": "M.Campeones 1080",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76",
+"url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b",
 "isHost": true
 },
 {
 "name": "M.Campeones 720",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d",
+"url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47",
 "isHost": true
 },
 {
 "name": "M.Campeones 2 1080",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28",
+"url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6",
 "isHost": true
 },
 {
 "name": "M.Campeones 3 1080",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9",
+"url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7",
 "isHost": true
 },
 {
 "name": "M.Campeones 4 SD",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737",
+"url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa",
 "isHost": true
 },
 {
 "name": "M.Campeones 5 SD",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://662cceb5a2b23f2150172df24247fa220d8d95d4",
+"url": "acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d",
 "isHost": true
 },
 {
 "name": "M.Campeones 6 SD",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://a2e878fbab5dff0e2cda01e74a88c7b32eb67913",
+"url": "acestream://e9950ec551124c490ecbc2526a83d2c5a4516293",
 "isHost": true
 },
 {
 "name": "DAZN 1 1080",
 "image": "https://i.ibb.co/NZjMkfL/DAZN1.jpg",
-"url": "acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05",
+"url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660",
 "isHost": true
 },
 {
 "name": "DAZN 1 720",
 "image": "https://i.ibb.co/NZjMkfL/DAZN1.jpg",
-"url": "acestream://84af46abab9de02bdd22818747738cfa5438132e",
+"url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd",
 "isHost": true
 },
 {
 "name": "DAZN 2 1080",
 "image": "https://i.ibb.co/v1RBCHL/DAZN2.jpg",
-"url": "acestream://42fea4e172bf3debe0e004260bdd077fe0b4f58e",
+"url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e",
 "isHost": true
 },
 {
 "name": "DAZN 2 720",
 "image": "https://i.ibb.co/v1RBCHL/DAZN2.jpg",
-"url": "acestream://6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf",
+"url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85",
 "isHost": true
 },
 {
 "name": " DAZN 3",
 "image": "https://i.ibb.co/QfX8Xx6/DAZN3.jpg",
-"url": "acestream://bfbcda5a0999256360ce560caf2a6473aafc3f11",
+"url": "acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a",
 "isHost": true
 },
 {
 "name": " DAZN 4",
 "image": "https://i.ibb.co/Qjk9GPx/DAZN4.jpg",
-"url": "acestream://a0465ef421f30d0c68ff706654147762ec7b6c03",
+"url": "acestream://149a38e333de920753f1388c43247283bdb05f5b",
 "isHost": true
 },
 {
 "name": " DAZN F1 1080",
 "image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
-"url": "acestream://c372020ed2744033f56548b6beb11a9f3e740f37",
+"url": "acestream://ffaa5f556ee0497ad905208d317b1f3ed4c0914b",
+"isHost": true
+},
+{
+"name": " DAZN F1 1080",
+"image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
+"url": "acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2",
 "isHost": true
 },
 {
 "name": " DAZN F1 720",
 "image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
-"url": "acestream://12e7fb26141ec4a6d99588e0e870a1a441b37f83",
+"url": "acestream://a4d17dec3b341fb4c10afab81068dca29c5e9a4a",
 "isHost": true
 },
 {
 "name": " EUROSPORT 1 1080",
 "image": "https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg",
-"url": "acestream://40da37534656efcc6179c1b7693335d5e8212e43",
+"url": "acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2",
 "isHost": true
 },
 {
 "name": " EUROSPORT 2 1080",
 "image": "https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg",
-"url": "acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b",
+"url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01",
 "isHost": true
 },
 {
 "name": " SPORT TV 1080",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/2560px-Logo_SportTV.svg.png",
-"url": "acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175",
+"url": "acestream://c95422bc904378be0b035eba721d5e6a004f7d79",
 "isHost": true
 },
 {
 "name": " SPORT TV 2 1080",
 "image": "https://www.thesportsdb.com/images/media/tvlogo/uuvrpw1436898843.png",
-"url": "acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6",
+"url": "acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541",
 "isHost": true
 },
 {
 "name": " SPORT TV 3 1080",
 "image": "https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png",
-"url": "acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a",
+"url": "acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff",
 "isHost": true
 },
 {
 "name": " BEIN SPORTS 1080",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",
-"url": "acestream://52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca",
+"url": "acestream://4853a0bd4fd17f85f563267feb6aec3319a3ac1d",
 "isHost": true
 },
 {
 "name": "ESPN 2 720",
 "image": "https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png",
-"url": "acestream://5ae9afd963961cd07e8f690e44a6596a2bb4e51e",
+"url": "acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00",
 "isHost": true
 },
 {
 "name": "Barca TV",
 "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png",
-"url": "acestream://65c141632af256d70da66c767ba74360042b4396",
+"url": "acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7",
 "isHost": true
 },
 {
@@ -286,37 +292,37 @@
 {
 "name": "M. Deportes 1080",
 "image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
-"url": "acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486",
+"url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0",
 "isHost": true
 },
 {
 "name": "M. Deportes 2 1080",
 "image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
-"url": "acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6",
+"url": "acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5",
 "isHost": true
 },
 {
 "name": "M. Deportes 3 1080",
 "image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
-"url": "acestream://85bd65161dfd8c4033194da3c978c0450c9111db",
+"url": "acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20",
 "isHost": true
 },
 {
 "name": "M. Deportes 4 1080",
 "image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
-"url": "acestream://0c8935087510ee1c5117243a6cc46f9d6d795faf",
+"url": "acestream://08db089084ddbaceba7c239817407bf99708b9ad",
 "isHost": true
 },
 {
 "name": "M. Deportes 5 1080",
 "image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
-"url": "acestream://478833f6390f04e95c6d94180a784b78ad540d2f",
+"url": "acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c",
 "isHost": true
 },
 {
-"name": "M. Deportes 7 1080",
+"name": "M. Deportes 6 1080",
 "image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
-"url": "acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741",
+"url": "acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486",
 "isHost": true
 },
 {
