@@ -116,6 +116,12 @@
 "isHost": true
 },
 {
+"name": "GolMundial 1080",
+"image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
+"url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b",
+"isHost": true
+},
+{
 "nombre": "Gol Mundial 1080 Multiaudio",
 "imagen": "https://golmundial.com/meta-image.jpg",
 "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b",
