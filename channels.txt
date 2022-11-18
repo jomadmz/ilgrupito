@@ -160,13 +160,13 @@
 {
 "name": "LaLiga SmartBank 1080 MultiAudio",
 "image": "https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg",
-"url": "acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf",
+"url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247",
 "isHost": true
 },
 {
 "name": "LaLiga SmartBank 720",
 "image": "https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg",
-"url": "acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3",
+"url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c",
 "isHost": true
 },
 {
