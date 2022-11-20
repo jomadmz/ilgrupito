@@ -118,7 +118,7 @@
 {
 "name": "GolMundial 1080 MULTIAUDIO",
 "image": "https://golmundial.com/meta-image.jpg",
-"url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b",
+"url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6",
 "isHost": true
 },
 {
