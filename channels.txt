@@ -328,7 +328,7 @@
 {
 "name": "Gol TV HD",
 "image": "https://i.ibb.co/5hYsXDR/Gol.jpg",
-"url": "acestream://49c35606668ebf7a895434ec4c9243a163d87718",
+"url": "acestream://d4627f7b6b237a8556819445b3283d866caceca2",
 "isHost": true
 },
 {
