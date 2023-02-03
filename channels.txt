@@ -256,19 +256,19 @@
 {
 "name": " DAZN F1 1080",
 "image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
-"url": "acestream://ffaa5f556ee0497ad905208d317b1f3ed4c0914b",
+"url": "acestream://60cf60019aeef9af6183dd05af1b89e25594ac14",
 "isHost": true
 },
 {
 "name": " DAZN F1 1080",
 "image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
-"url": "acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2",
+"url": "acestream://60cf60019aeef9af6183dd05af1b89e25594ac14",
 "isHost": true
 },
 {
 "name": " DAZN F1 720",
 "image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
-"url": "acestream://a4d17dec3b341fb4c10afab81068dca29c5e9a4a",
+"url": "acestream://a52bf7c28df63995ad427c32ebf1e517445720bb",
 "isHost": true
 },
 {
