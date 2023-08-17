@@ -172,7 +172,7 @@
 {
 "name": "M.Campeones 2 1080",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6",
+"url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393",
 "isHost": true
 },
 {
