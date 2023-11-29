@@ -166,7 +166,13 @@
 {
 "name": "M.Campeones 1080",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b",
+"url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833",
+"isHost": true
+},
+{
+"name": "M.Campeones 1080",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9",
 "isHost": true
 },
 {
