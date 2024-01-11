@@ -374,9 +374,9 @@
 "isHost": true
 },
 {
-"name": "ALTERNATIVO",
+"name": "SUPERCOPA",
 "image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
-"url": "acestream://fb854a0da764db77a4b05fb5bf3e41e6d6650909/",
+"url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281/",
 "isHost": true
 },
 {
