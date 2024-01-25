@@ -375,25 +375,25 @@
 },
 {
 "name": "Copa 1080",
-"image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
+"image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2022/11/copa-del-rey_1040x650-v2.jpg",
 "url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d/",
 "isHost": true
 },
 {
 "name": "Copa 1080",
-"image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
+"image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2022/11/copa-del-rey_1040x650-v2.jpg",
 "url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e/",
 "isHost": true
 },
 {
 "name": "Copa 1080 Multiaudio",
-"image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
+"image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2022/11/copa-del-rey_1040x650-v2.jpg",
 "url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281/",
 "isHost": true
 },
 {
 "name": "Copa 1080 Multi",
-"image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
+"image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2022/11/copa-del-rey_1040x650-v2.jpg",
 "url": "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d/",
 "isHost": true
 },
