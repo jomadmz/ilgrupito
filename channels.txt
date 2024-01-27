@@ -38,6 +38,12 @@
 "isHost": true
 },
 {
+"name": "M. La Liga 1080",
+"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
+"url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280",
+"isHost": true
+},
+{
 "name": "M. La Liga 1080 MULTIAUDIO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f",
