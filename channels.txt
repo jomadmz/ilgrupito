@@ -118,7 +118,7 @@
 {
 "name": "DAZN LaLiga 2 1080",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
-"url": "acestream://93d663e92a93845b11c9831885646fa39ba1ed66",
+"url": "acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10",
 "isHost": true
 },
 {
