@@ -37,6 +37,11 @@
 "url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280",
 "isHost": true
 },
+"name": "M. La Liga 4K",
+"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
+"url": "acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf",
+"isHost": true
+},
 {
 "name": "M. La Liga 1080",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
