@@ -76,19 +76,19 @@
 {
 "name": "M. LaLiga 3 1080",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://4c4844564313e39a888f593511f299f5ba3cf929",
+"url": "acestream://de52318ab15c921d8d5c036c5f33562382b5ae71",
 "isHost": true
 },
 {
 "name": "M. LaLiga 4 1080",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0",
+"url": "acestream://5c2ee247211b205f64ef1cf90ef5c45408657326",
 "isHost": true
 },
 {
 "name": "M. LaLiga 5 1080",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2",
+"url": "acestream://c661bee7afd61d487ce085a1667c4f2b91d6675d",
 "isHost": true
 },
 {
@@ -130,19 +130,19 @@
 {
 "name": "DAZN LaLiga 3 1080",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
-"url": "acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74",
+"url": "acestream://3d0b2395098452617097896abb38956965b8a396",
 "isHost": true
 },
 {
 "name": "DAZN LaLiga 4 1080",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
-"url": "acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e",
+"url": "acerstream://6e97745e481ee0be3b48720d4bfead7da2f08689",
 "isHost": true
 },
 {
 "name": "DAZN LaLiga 5 1080",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
-"url": "acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7",
+"url": "acestream://45db6feb1a8da2690a948532efd771992a7ea7c9",
 "isHost": true
 },
 {
