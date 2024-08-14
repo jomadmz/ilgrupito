@@ -27,13 +27,13 @@
 },
 {
 "name": "LaLiga TV BAR 1080",
-"image": "https://laligatvbar.es/meta-image.jpg",
+"image": "https://cdn.valenciaplaza.com/public/Image/2022/8/meta-image_NoticiaAmpliada.jpg",
 "url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280",
 "isHost": true
 },
 {
 "name": "LaLiga TV BAR 720",
-"image": "https://laligatvbar.es/meta-image.jpg",
+"image": "https://cdn.valenciaplaza.com/public/Image/2022/8/meta-image_NoticiaAmpliada.jpg",
 "url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280",
 "isHost": true
 },
