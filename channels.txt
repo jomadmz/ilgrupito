@@ -146,15 +146,33 @@
 "isHost": true
 },
 {
-"name": "LaLiga SmartBank 1080 MultiAudio",
-"image": "https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg",
+"name": "LaLiga Hypermotion 1080 MultiAudio",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslmVLZKHOyJFQBKBb3JkztcAA8pLr8bDfpBMLcb3OMbsxftwrCwp-hX2hbNFtP7DrM_s&usqp=CAU",
 "url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf",
 "isHost": true
 },
 {
-"name": "LaLiga SmartBank 720",
-"image": "https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg",
+"name": "LaLiga Hypermotion 720",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslmVLZKHOyJFQBKBb3JkztcAA8pLr8bDfpBMLcb3OMbsxftwrCwp-hX2hbNFtP7DrM_s&usqp=CAU",
 "url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4",
+"isHost": true
+},
+{
+"name": "LaLiga Hypermotion 2 1080 ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslmVLZKHOyJFQBKBb3JkztcAA8pLr8bDfpBMLcb3OMbsxftwrCwp-hX2hbNFtP7DrM_s&usqp=CAU",
+"url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087",
+"isHost": true
+},
+{
+"name": "LaLiga Hypermotion 3 1080 ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslmVLZKHOyJFQBKBb3JkztcAA8pLr8bDfpBMLcb3OMbsxftwrCwp-hX2hbNFtP7DrM_s&usqp=CAU",
+"url": "acestream://bd2f7970c17f427ae92867e2eb86696dd7900a3e",
+"isHost": true
+},
+{
+"name": "LaLiga Hypermotion 4 1080 ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslmVLZKHOyJFQBKBb3JkztcAA8pLr8bDfpBMLcb3OMbsxftwrCwp-hX2hbNFtP7DrM_s&usqp=CAU",
+"url": "acestream://ef3a9359800bba51018fe00ac84afb8e79a7bbf2",
 "isHost": true
 },
 {
