@@ -32,15 +32,9 @@
 "isHost": true
 },
 {
-"name": "LaLiga TV BAR 720",
-"image": "https://cdn.valenciaplaza.com/public/Image/2022/8/meta-image_NoticiaAmpliada.jpg",
-"url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280",
-"isHost": true
-},
-{
-"name": "M. La Liga 1080",
+"name": "M. La Liga 1080 MULTIAUDIO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280",
+"url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5",
 "isHost": true
 },
 {
@@ -50,15 +44,15 @@
 "isHost": true
 },
 {
-"name": "M. La Liga 1080 MULTIAUDIO",
-"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5",
-"isHost": true
-},
-{
 "name": "M. LaLiga 720",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8",
+"isHost": true
+},
+{
+"name": "M. La Liga UHD",
+"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
+"url": "acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf",
 "isHost": true
 },
 {
