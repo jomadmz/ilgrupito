@@ -424,7 +424,7 @@
 {
 "name": "TOPURIA 1",
 "image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
-"url": "acestream://822654b2c0db24d1de149cb 821fdd44a3b968fbfa",
+"url": "acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa",
 "isHost": true
 },
 {
