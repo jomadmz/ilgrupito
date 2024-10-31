@@ -410,6 +410,12 @@
 "isHost": true
 },
 {
+"name": "Copa 720",
+"image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2022/11/copa-del-rey_1040x650-v2.jpg",
+"url": "acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03",
+"isHost": true
+},
+{
 "name": "EUROSPORT 1",
 "image": "https://contenidostv.b-cdn.net/images/euroSportHD-512.png",
 "url": "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952",
