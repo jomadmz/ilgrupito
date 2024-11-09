@@ -28,7 +28,7 @@
 {
 "name": "LaLiga TV BAR 1080",
 "image": "https://cdn.valenciaplaza.com/public/Image/2022/8/meta-image_NoticiaAmpliada.jpg",
-"url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280",
+"url": "acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e",
 "isHost": true
 },
 {
