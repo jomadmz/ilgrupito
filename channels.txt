@@ -476,7 +476,7 @@
 "isHost": true
 },
 {
-"name": "PPVP 2 2",
+"name": "PPVP 2",
 "image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
 "url": "acestream://7cf437be950f3525e735be57c63f7824cab822c9",
 "isHost": true
