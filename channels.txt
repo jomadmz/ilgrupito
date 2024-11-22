@@ -470,6 +470,24 @@
 "isHost": true
 },
 {
+"name": "La 1",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png",
+"url": "acestream://b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0",
+"isHost": true
+},
+{
+"name": "La 1 UHD",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_La_1_UHD_2024.svg/1280px-Logo_La_1_UHD_2024.svg.png",
+"url": "acestream://4a714c436cb67d53cf197f9038239fddab2d8b20",
+"isHost": true
+},
+{
+"name": "TDP 1080",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"url": "acestream://61b9b271c16f970aab43cb753c5f8be181dceece",
+"isHost": true
+},
+{
 "name": "PPVP 1",
 "image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
 "url": "acestream://6994af284ecab2996f9b140ef44b8da8bfee0006",
