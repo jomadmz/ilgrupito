@@ -489,25 +489,25 @@
 },
 {
 "name": "PPVP 1",
-"image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
+"image": "https://img.freepik.com/premium-vector/pvp-logo-pvp-letter-pvp-letter-logo-design-initials-pvp-logo-linked-with-circle-uppercase-monogram-logo-pvp-typography-technology-business-real-estate-brand_229120-82545.jpg",
 "url": "acestream://6994af284ecab2996f9b140ef44b8da8bfee0006",
 "isHost": true
 },
 {
 "name": "PPVP 2",
-"image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
+"image": "https://img.freepik.com/premium-vector/pvp-logo-pvp-letter-pvp-letter-logo-design-initials-pvp-logo-linked-with-circle-uppercase-monogram-logo-pvp-typography-technology-business-real-estate-brand_229120-82545.jpg",
 "url": "acestream://7cf437be950f3525e735be57c63f7824cab822c9",
 "isHost": true
 },
 {
 "name": "PPVP 3",
-"image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
+"image": "https://img.freepik.com/premium-vector/pvp-logo-pvp-letter-pvp-letter-logo-design-initials-pvp-logo-linked-with-circle-uppercase-monogram-logo-pvp-typography-technology-business-real-estate-brand_229120-82545.jpg",
 "url": "acestream://ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48",
 "isHost": true
 },
 {
 "name": "PPVP 4",
-"image": "https://thumbs.dreamstime.com/b/icono-muestra-del-error-mensaje-de-negros-o-logotipo-131520195.jpg",
+"image": "https://img.freepik.com/premium-vector/pvp-logo-pvp-letter-pvp-letter-logo-design-initials-pvp-logo-linked-with-circle-uppercase-monogram-logo-pvp-typography-technology-business-real-estate-brand_229120-82545.jpg",
 "url": "acestream://7cf437be950f3525e735be57c63f7824cab822c9",
 "isHost": true
 }
