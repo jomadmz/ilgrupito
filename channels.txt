@@ -106,13 +106,13 @@
 {
 "name": "DAZN LaLiga 1080",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
-"url": "acestream://ec29289b0b14756e686c03a501bae1efa05be70c",
+"url": "acestream://110d441ddc9713a7452588770d2bc85504672f47",
 "isHost": true
 },
 {
 "name": "DAZN LaLiga 1080",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
-"url": "acestream://110d441ddc9713a7452588770d2bc85504672f47",
+"url": "acestream://ec29289b0b14756e686c03a501bae1efa05be70c",
 "isHost": true
 },
 {
