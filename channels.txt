@@ -178,7 +178,7 @@
 {
 "name": "LaLiga Hypermotion 3 1080 ",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslmVLZKHOyJFQBKBb3JkztcAA8pLr8bDfpBMLcb3OMbsxftwrCwp-hX2hbNFtP7DrM_s&usqp=CAU",
-"url": "acestream://20196007a6697a1f11589fd4c8bab6713c265e64",
+"url": "acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea",
 "isHost": true
 },
 {
