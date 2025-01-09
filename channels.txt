@@ -440,6 +440,12 @@
 "isHost": true
 },
 {
+"name": "Supercopa 1080",
+"image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2022/11/copa-del-rey_1040x650-v2.jpg",
+"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f",
+"isHost": true
+},
+{
 "name": "Copa 1080",
 "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2022/11/copa-del-rey_1040x650-v2.jpg",
 "url": "acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4",
