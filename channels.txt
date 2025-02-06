@@ -494,6 +494,12 @@
 "isHost": true
 },
 {
+"name": "EVENTO ESPECIAL",
+"image": "https://img.freepik.com/premium-vector/pvp-logo-pvp-letter-pvp-letter-logo-design-initials-pvp-logo-linked-with-circle-uppercase-monogram-logo-pvp-typography-technology-business-real-estate-brand_229120-82545.jpg",
+"url": "acestream://94d34491106e00394835c8cb68aa94481339b53f",
+"isHost": true
+},
+{
 "name": "PPVP 1",
 "image": "https://img.freepik.com/premium-vector/pvp-logo-pvp-letter-pvp-letter-logo-design-initials-pvp-logo-linked-with-circle-uppercase-monogram-logo-pvp-typography-technology-business-real-estate-brand_229120-82545.jpg",
 "url": "acestream://6994af284ecab2996f9b140ef44b8da8bfee0006",
