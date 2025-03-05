@@ -584,6 +584,12 @@
 "isHost": true
 },
 {
+"name": "M. Deportes 1080",
+"image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
+"url": "acestream://0f771c30336a0506c74f4aa86762edcb94d21fac",
+"isHost": true
+},
+{
 "name": "M. Deportes 720",
 "image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
 "url": "acestream://3a74d9869b13e763476800740c6625e715a39879",
@@ -596,9 +602,21 @@
 "isHost": true
 },
 {
+"name": "M. Deportes 2 1080",
+"image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
+"url": "acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637",
+"isHost": true
+},
+{
 "name": "M. Deportes 3 1080",
 "image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
 "url": "acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3",
+"isHost": true
+},
+{
+"name": "M. Deportes 3 1080",
+"image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
+"url": "acestream://985896872c52d04030c112ca99584046d022a349",
 "isHost": true
 },
 {
@@ -608,9 +626,21 @@
 "isHost": true
 },
 {
+"name": "M. Deportes 4 1080",
+"image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
+"url": "acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f",
+"isHost": true
+},
+{
 "name": "M. Deportes 5 1080",
 "image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
 "url": "acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac",
+"isHost": true
+},
+{
+"name": "M. Deportes 5 1080",
+"image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
+"url": "acestream://14aa86be2b451cd4f5ee6d12e7479885373ea9b3",
 "isHost": true
 },
 {
