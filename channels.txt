@@ -544,13 +544,31 @@
 {
 "name": "TENNIS CHANNEL",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUPEU9OogIN9NrW1H36qIEBbtcDh0DXLmBoQ&s",
-"url": "acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36",
+"url": "acestream://039fae21c9e7e5214d3d898cba80863e37e623ac",
+"isHost":"true"
+},
+{
+"name": "ESPN 1",
+"image": "https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png",
+"url": "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442",
+"isHost":"true"
+},
+{
+"name": "ESPN 2",
+"image": "https://wtcks.com/images/channels/logos/espn2.png",
+"url": "acestream://664eb5fe460b96941aed633959a845b185cd8394",
 "isHost":"true"
 },
 {
 "name": "M+ Series 1080",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/250px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png",
 "url": "acestream://28dc545c00d47a620bc7243657de5a85811f1254",
+"isHost": true
+},
+{
+"name": "M+ Accion 1080",
+"image": "https://images.seeklogo.com/logo-png/49/2/accion-por-movistar-plus-logo-png_seeklogo-492846.png",
+"url": "acestream://de88ed8716612d9c548df63a168fbdd96843dd20",
 "isHost": true
 },
 {
