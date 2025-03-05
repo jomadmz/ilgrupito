@@ -8,9 +8,39 @@
 "image": "https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg",
 "stations": [
 {
+"name": "UFC Fight Pass 1080",
+"image": "https://tjekpriser.dk/wp-content/uploads/2024/09/channels4_profile-300x300.jpg",
+"url": "acestream://f74dcf44f57fc71cb4b0719b3342e569eba50c51",
+"isHost": true
+},
+{
+"name": "EVENTO UFC 1080",
+"image": "https://tjekpriser.dk/wp-content/uploads/2024/09/channels4_profile-300x300.jpg",
+"url": "acestream://916888d956caf960cc8456eb46a12775a858124c",
+"isHost": true
+},
+{
+"name": "MAX UFC PPV 1080",
+"image": "https://tjekpriser.dk/wp-content/uploads/2024/09/channels4_profile-300x300.jpg",
+"url": "acestream://405f4975c759816fbc6606eeb990666f1853dfe2",
+"isHost": true
+},
+{
 "name": "#VAMOS 1080",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/640px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png",
 "url": "acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2",
+"isHost": true
+},
+{
+"name": "#VAMOS 1080",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/640px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png",
+"url": "acestream://c6b52ffb3b84836d334569204797d88bf15d48fa",
+"isHost": true
+},
+{
+"name": "#VAMOS 1080",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/640px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png",
+"url": "acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77",
 "isHost": true
 },
 {
@@ -212,6 +242,24 @@
 "isHost": true
 },
 {
+"name": "M.Campeones 1080",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://ac73acd09d79c46cb818bfd945f20198d1718a85",
+"isHost": true
+},
+{
+"name": "M.Campeones 1080",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://f43a021e8fd63334a4bf3fb11ffe58f89039a1d0",
+"isHost": true
+},
+{
+"name": "M.Campeones 1080",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://840f68a0dc6e27c2927a16b4d42b9401ac50270b",
+"isHost": true
+},
+{
 "name": "M.Campeones 720",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
 "url": "acestream://8edb264520569b2280c5e86b2dc734e120032903",
@@ -221,6 +269,18 @@
 "name": "M.Campeones 2 1080",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
 "url": "acestream://c070cdb701fc46bb79d17568d99fc64620443d63",
+"isHost": true
+},
+{
+"name": "M.Campeones 2 1080",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://deb8972491e3817ba2335662d7855d2c2c05a900",
+"isHost": true
+},
+{
+"name": "M.Campeones 2 1080",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb",
 "isHost": true
 },
 {
@@ -236,6 +296,12 @@
 "isHost": true
 },
 {
+"name": "M.Campeones 3 1080",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://8e65f92af1de567f0af83562c5a14a3db6dc8ac8",
+"isHost": true
+},
+{
 "name": "M.Campeones 3 720",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
 "url": "acestream://0b348cc1ae499e810729661878764a0fab88ab69",
@@ -248,15 +314,33 @@
 "isHost": true
 },
 {
+"name": "M.Campeones 4 1080",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://5a8323792bb3d48f71d1f690d3f5ec4ad5b48301",
+"isHost": true
+},
+{
 "name": "M.Campeones 5 1080",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
 "url": "acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0",
 "isHost": true
 },
 {
+"name": "M.Campeones 5 1080",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://47ab133c0bd7c9e6eb6f11661d33101a9d3bfce3",
+"isHost": true
+},
+{
 "name": "M.Campeones 6 1080",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
 "url": "acestream://fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd",
+"isHost": true
+},
+{
+"name": "M.Campeones 6 1080",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://c1de133576bc8b82db0891d850f5e2d448dac9d6",
 "isHost": true
 },
 {
@@ -272,9 +356,21 @@
 "isHost": true
 },
 {
+"name": "DAZN 1 BAR",
+"image": "https://wiki2023.mundoplus.tv/_media/logos/daznbar01.png",
+"url": "acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6",
+"isHost": true
+},
+{
 "name": "DAZN 1 1080",
 "image": "https://i.ibb.co/NZjMkfL/DAZN1.jpg",
 "url": "acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5",
+"isHost": true
+},
+{
+"name": "DAZN 1 1080",
+"image": "https://i.ibb.co/NZjMkfL/DAZN1.jpg",
+"url": "acestream://71a65780b9c542a8c9e4084ae5aefdd9286da51e",
 "isHost": true
 },
 {
@@ -290,6 +386,12 @@
 "isHost": true
 },
 {
+"name": "DAZN 2 1080",
+"image": "https://i.ibb.co/v1RBCHL/DAZN2.jpg",
+"url": "acestream://57e38ef7eaab5596559415bdf96926ee4115c5ce",
+"isHost": true
+},
+{
 "name": "DAZN 2 720",
 "image": "https://i.ibb.co/v1RBCHL/DAZN2.jpg",
 "url": "acestream://a929eeec1268d69d1556a2e3ace793b2577d8810",
@@ -302,9 +404,21 @@
 "isHost": true
 },
 {
+"name": " DAZN 3 1080",
+"image": "https://i.ibb.co/QfX8Xx6/DAZN3.jpg",
+"url": "acestream://5c7406bfaf65cc32d3f52b1430b53a37bc4c59bc",
+"isHost": true
+},
+{
 "name": " DAZN 4 1080",
 "image": "https://i.ibb.co/Qjk9GPx/DAZN4.jpg",
 "url": "acestream://4e83f23945ab3e43982045f88ec31daaa4683102",
+"isHost": true
+},
+{
+"name": " DAZN 4 1080",
+"image": "https://i.ibb.co/Qjk9GPx/DAZN4.jpg",
+"url": "acestream://b4b48a6028aa05ca32f583d3019dc2e3e6bd9988",
 "isHost": true
 },
 {
@@ -332,45 +446,39 @@
 "isHost": true
 },
 {
-"name": " DAZN F1 720",
+"name": " DAZN F1 1080",
 "image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
-"url": "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85",
+"url": "acestream://5d8613b5fde87f366bb5e41ac8011007a4c6bd3c",
+"isHost": true
+},
+{
+"name": " DAZN F1 1080",
+"image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
+"url": "acestream://d5446f3cc8e42ba965fd9f1c73b1e2ac3921a6ab",
 "isHost": true
 },
 {
 "name": " EUROSPORT 1 1080",
 "image": "https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg",
-"url": "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952",
+"url": "acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50",
 "isHost": true
 },
 {
 "name": " EUROSPORT 2 1080",
 "image": "https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg",
-"url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29",
+"url": "acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d",
 "isHost": true
 },
 {
-"name": " SPORT TV 1080",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/2560px-Logo_SportTV.svg.png",
-"url": "acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de",
+"name": " NBA TV TV 1080",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
+"url": "acestream://c8aac540621d481965791c4442a7e868bcca10ca",
 "isHost": true
 },
 {
-"name": " SPORT TV 2 1080",
-"image": "https://www.thesportsdb.com/images/media/tvlogo/uuvrpw1436898843.png",
-"url": "acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace",
-"isHost": true
-},
-{
-"name": " SPORT TV 3 1080",
-"image": "https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png",
-"url": "acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9",
-"isHost": true
-},
-{
-"name": " BEIN SPORTS 1080",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",
-"url": "acestream://41af6926a6010b68ba2540975761436bb077748f",
+"name": " Discovery Channel",
+"image": "https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png",
+"url": "acestream://cd485af78cf86934d77cf867f73fe7f5cd32981a",
 "isHost": true
 },
 {
@@ -392,9 +500,9 @@
 "isHost": true
 },
 {
-"name": "Gol TV HD",
+"name": "GOL PLAY HD",
 "image": "https://i.ibb.co/5hYsXDR/Gol.jpg",
-"url": "acestream://d4627f7b6b237a8556819445b3283d866caceca2",
+"url": "acestream://5fe1d33db9ebe08cea0b27af064f068102b31831",
 "isHost": true
 },
 {
@@ -460,13 +568,25 @@
 {
 "name": "Copa 1080",
 "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2022/11/copa-del-rey_1040x650-v2.jpg",
-"url": "acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4",
+"url": "acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d",
 "isHost": true
 },
 {
-"name": "Copa 720",
+"name": "Copa 1080",
 "image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2022/11/copa-del-rey_1040x650-v2.jpg",
-"url": "acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d",
+"url": "acestream://2dcc9fa21935872130029206395a12cd10533a75",
+"isHost": true
+},
+{
+"name": "SuperCopa 1080",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png",
+"url": "acestream://20d44589bc1e51ffb60d2cd98fb24019c6736772",
+"isHost": true
+},
+{
+"name": "SuperCopa 1080",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png",
+"url": "acestream://c0d688a5045c5446c35f802a567ac3f0fa72b4b6",
 "isHost": true
 },
 {
@@ -476,27 +596,57 @@
 "isHost": true
 },
 {
+"name": "EUROSPORT 1",
+"image": "https://contenidostv.b-cdn.net/images/euroSportHD-512.png",
+"url": "acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50",
+"isHost": true
+},
+{
 "name": "EUROSPORT 2",
 "image": "https://contenidostv.b-cdn.net/images/euroSportHD-512.png",
 "url": "acestream://98784fa0714190de289f42eb5b84e405df7e685a",
 "isHost": true
 },
 {
+"name": "EUROSPORT 2",
+"image": "https://contenidostv.b-cdn.net/images/euroSportHD-512.png",
+"url": "acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d",
+"isHost": true
+},
+{
 "name": "La 1",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png",
-"url": "acestream://b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0",
+"url": "acestream://7225e4b281975f1a36d61dfd9724b669d7747b70",
 "isHost": true
 },
 {
-"name": "La 1 UHD",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_La_1_UHD_2024.svg/1280px-Logo_La_1_UHD_2024.svg.png",
-"url": "acestream://4a714c436cb67d53cf197f9038239fddab2d8b20",
+"name": "La 2",
+"image": "https://e7.pngegg.com/pngimages/502/146/png-clipart-la-2-logo-television-m3u-caldo-television-blue-thumbnail.png",
+"url": "acestream://56d98cef21d9e242a8c32f36259c850c467e9748",
 "isHost": true
 },
 {
-"name": "TDP 1080",
-"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-"url": "acestream://61b9b271c16f970aab43cb753c5f8be181dceece",
+"name": "Antena 3",
+"image": "https://www.panoramaaudiovisual.com/wp-content/uploads/2017/05/Logotipo_Antena3.png",
+"url": "acestream://c5b1bb99bdee549885d4d680cafbdd0a026239f5",
+"isHost": true
+},
+{
+"name": "Cuatro",
+"image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cuatro_2012.png",
+"url": "acestream://da60cf19fab0b9e23aab83bb37d61e8b8c3b7655",
+"isHost": true
+},
+{
+"name": "Telecinco",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telecinco_2024_Logo.svg/1200px-Telecinco_2024_Logo.svg.png",
+"url": "acestream://154c6f876ddf1d9c87880eae0d0442335ec156bf",
+"isHost": true
+},
+{
+"name": "VAMOS ELLAS FHD",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Logo_de_Ellas_Vamos_por_M%2B_-_2023.png",
+"url": "acestream://e2d26332bf1aa59aec7e3cbe9ed4689df44ae368",
 "isHost": true
 },
 {
