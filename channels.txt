@@ -26,6 +26,12 @@
 "isHost": true
 },
 {
+"name": "Movistar Plus 1080",
+"image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
+"url": "acestream://335646e7394ea4eda343c95e57852bb70fc4178f",
+"isHost": true
+},
+{
 "name": "LaLiga TV BAR 1080",
 "image": "https://cdn.valenciaplaza.com/public/Image/2022/8/meta-image_NoticiaAmpliada.jpg",
 "url": "acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e",
