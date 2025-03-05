@@ -741,7 +741,7 @@
 },
 {
 "name": "La 2",
-"image": "https://e7.pngegg.com/pngimages/502/146/png-clipart-la-2-logo-television-m3u-caldo-television-blue-thumbnail.png",
+"image": "https://tvendirecto.online/wp-content/uploads/2021/11/la-2-en-directo.png",
 "url": "acestream://56d98cef21d9e242a8c32f36259c850c467e9748",
 "isHost": true
 },
