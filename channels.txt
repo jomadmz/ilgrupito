@@ -46,12 +46,6 @@
 {
 "name": "Movistar Plus 1080",
 "image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
-"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f",
-"isHost": true
-},
-{
-"name": "Movistar Plus 1080",
-"image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
 "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
 "isHost": true
 },
@@ -65,6 +59,12 @@
 "name": "Movistar Plus 1080",
 "image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
 "url": "acestream://0248f0d8281287c96266f2ab4e44c32a4fae7d85",
+"isHost": true
+},
+{
+"name": "Movistar Plus 1080",
+"image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
+"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f",
 "isHost": true
 },
 {
