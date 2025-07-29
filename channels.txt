@@ -674,6 +674,18 @@
 "isHost": true
 },
 {
+"name": "Canal Cocina 1080",
+"image": "https://www.pikpng.com/pngl/m/6-66167_-tv-directo-en-espaol-canal-cocina-logo.png",
+"url": "acestream://db81615f1b2eebaf584edc252ddd73883123fbb3",
+"isHost": true
+},
+{
+"name": "Caza y pesca 1080",
+"image": "https://www.iberconejo.eu/wp-content/uploads/2025/02/Caza-pesca_m.png",
+"url": "acestream://6f28b1b9eb9f4047a6179b300e65b03c8316e10f",
+"isHost": true
+},
+{
 "name": "OneToro TV 1080",
 "image": "https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png",
 "url": "acestream://1fd3dbb7d39de875ac70059d70c8768d4a2e43c0",
