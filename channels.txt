@@ -674,6 +674,12 @@
 "isHost": true
 },
 {
+"name": "National Geographic 1080",
+"image": "https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg",
+"url": "acestream://860dd021db341dbd02979eb8ea650d3f9d846765",
+"isHost": true
+},
+{
 "name": "Canal Cocina 1080",
 "image": "https://www.pikpng.com/pngl/m/6-66167_-tv-directo-en-espaol-canal-cocina-logo.png",
 "url": "acestream://db81615f1b2eebaf584edc252ddd73883123fbb3",
