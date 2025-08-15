@@ -230,9 +230,9 @@
 "isHost": true
 },
 {
-"name": "LaLiga Hypermotion 1080 MultiAudio",
+"name": "LaLiga Hypermotion 1080 New Era",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslmVLZKHOyJFQBKBb3JkztcAA8pLr8bDfpBMLcb3OMbsxftwrCwp-hX2hbNFtP7DrM_s&usqp=CAU",
-"url": "acestream://dc3a2b85303e01c2467fddf50b806adf15172460",
+"url": "acestream://f15f997f457e49ad9697e65cf2d78db26ee875b9",
 "isHost": true
 },
 {
