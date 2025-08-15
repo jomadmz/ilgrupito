@@ -74,13 +74,13 @@
 "isHost": true
 },
 {
-"name": "M. La Liga 1080 MULTIAUDIO ELCANO",
+"name": "M. La Liga 1080 MULTI ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e",
 "isHost": true
 },
 {
-"name": "M. La Liga 1080 MULTIAUDIO ELCANO",
+"name": "M. La Liga 1080 MULTI ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74",
 "isHost": true
