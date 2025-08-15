@@ -8,15 +8,15 @@
 "image": "https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg",
 "stations": [
 {
-"name": "UFC Fight Pass 1080",
+"name": "UFC Fight Pass 1080 New Era",
 "image": "https://tjekpriser.dk/wp-content/uploads/2024/09/channels4_profile-300x300.jpg",
-"url": "acestream://0ce88d9e7273fddbc9b49f578b6b255513697139",
+"url": "acestream://108aebe20efc826e56f3a1cb01117a124a6b89ad",
 "isHost": true
 },
 {
-"name": "EVENTO UFC 1080",
+"name": "EVENTO UFC 1080 New Era",
 "image": "https://tjekpriser.dk/wp-content/uploads/2024/09/channels4_profile-300x300.jpg",
-"url": "acestream://9efe41de7f5dcafc9395591feb959832e09683ff",
+"url": "acestream://04d8f9a91f551adb9cccbcdd478cffa5b24a6772",
 "isHost": true
 },
 {
