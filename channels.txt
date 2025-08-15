@@ -470,25 +470,19 @@
 "isHost": true
 },
 {
-"name": " DAZN F1 4K",
-"image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
-"url": "acestream://7e1523ccfaac00800e67bd0b97c428810104b2b8",
-"isHost": true
-},
-{
-"name": " DAZN F1 1080",
+"name": " DAZN F1 1080 ELCANO",
 "image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
 "url": "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1",
 "isHost": true
 },
 {
-"name": " DAZN F1 1080",
+"name": " DAZN F1 1080 ELCANO",
 "image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
 "url": "acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69",
 "isHost": true
 },
 {
-"name": " DAZN F1 1080",
+"name": " DAZN F1 1080 ELCANO",
 "image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
 "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
 "isHost": true
@@ -500,13 +494,13 @@
 "isHost": true
 },
 {
-"name": " DAZN F1 1080",
+"name": " DAZN F1 1080 New Era",
 "image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
 "url": "acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553",
 "isHost": true
 },
 {
-"name": " DAZN F1 1080",
+"name": " DAZN F1 1080 New Era",
 "image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
 "url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494",
 "isHost": true
