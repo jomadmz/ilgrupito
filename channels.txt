@@ -506,6 +506,24 @@
 "isHost": true
 },
 {
+"name": " Bundesliga 1 1080 New Era",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png",
+"url": "acestream://cb18d080d81f7fccf26b7723ce6a5d86d31220db",
+"isHost": true
+},
+{
+"name": " Bundesliga 2 1080 New Era",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png",
+"url": "acestream://d4f56cda0a15f47e7820daaac8e37b4d67d9c918",
+"isHost": true
+},
+{
+"name": " Bundesliga 3 1080 New Era",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png",
+"url": "acestream://692d6a47ba99fbfc67fa947e468e859c7f2b9564",
+"isHost": true
+},
+{
 "name": " EUROSPORT 1 1080 ELCANO",
 "image": "https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg",
 "url": "acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580",
