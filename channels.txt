@@ -164,6 +164,12 @@
 "isHost": true
 },
 {
+"name": "DAZN LaLiga 1080 ELCANO",
+"image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
+"url": "acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618",
+"isHost": true
+},
+{
 "name": "DAZN LaLiga 1080 New Era",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
 "url": "acestream://f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892",
