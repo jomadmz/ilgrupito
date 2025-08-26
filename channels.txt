@@ -765,7 +765,7 @@
 },
 {
 "name": "La 1 1080 New Era",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png",
+"image": "https://tvguia.info/wp-content/uploads/2021/11/La-1-TVE1.png",
 "url": "acestream://dad5e0e0825cb3e410008f1c4252387b868e740c",
 "isHost": true
 },
