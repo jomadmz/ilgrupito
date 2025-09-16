@@ -310,37 +310,19 @@
 {
 "name": "M.Campeones 1080 New Era",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a",
+"url": "acestream://0f7842f8b6c26571e5a974407b61623e56e6a052",
 "isHost": true
 },
 {
 "name": "M.Campeones 1080 New Era",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0",
-"isHost": true
-},
-{
-"name": "M.Campeones 1080 New Era",
-"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://680187938f9305cce3ae240298f10e8695bf77c2",
-"isHost": true
-},
-{
-"name": "M.Campeones 1080 New Era",
-"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://5c15c639207a080183b12fa63282b409c07401d6",
+"url": "acestream://f3eea003e23f94dc2d527306de9dd386e3ebf4ba",
 "isHost": true
 },
 {
 "name": "M.Campeones 1080 New Loop",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
 "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
-"isHost": true
-},
-{
-"name": "M.Campeones 4K New Era",
-"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://152169ce99e1fd27f2249c18384a121079cdef29",
 "isHost": true
 },
 {
@@ -364,7 +346,7 @@
 {
 "name": "M.Campeones 2 1080 New Era",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f",
+"url": "acestream://e7d8cae7f693fe46e89bbf74820caac9ffb32a30",
 "isHost": true
 },
 {
@@ -380,15 +362,21 @@
 "isHost": true
 },
 {
+"name": "M.Campeones 3 1080 New Era",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://2b5129adc57d43790634d796fe3468b9fd061259",
+"isHost": true
+},
+{
 "name": "M.Campeones 3 720 ELCANO",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
 "url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9",
 "isHost": true
 },
 {
-"name": "M.Campeones 4 1080",
+"name": "M.Campeones 4 1080 New Era",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://65a18a6bd83918a9586b673fec12405aaf4e9f7d",
+"url": "acestream://77998f8161373611ff6b348e7eda5b4e97d3ec29",
 "isHost": true
 },
 {
