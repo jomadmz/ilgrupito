@@ -154,6 +154,12 @@
 {
 "name": "DAZN LaLiga 1080 New Era",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
+"url": "acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae",
+"isHost": true
+},
+{
+"name": "DAZN LaLiga 1080 New Era",
+"image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
 "url": "acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1",
 "isHost": true
 },
