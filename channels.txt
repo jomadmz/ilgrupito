@@ -68,7 +68,7 @@
 "isHost": true
 },
 {
-"name": "M. La Liga 1080 MULTI ELCANO",
+"name": "M. La Liga 1080 ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74",
 "isHost": true
@@ -80,7 +80,7 @@
 "isHost": true
 },
 {
-"name": "M. La Liga 1080 MULTI ELCANO",
+"name": "M. La Liga 1080 ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e",
 "isHost": true
@@ -143,12 +143,6 @@
 "name": "M. LaLiga 3 720 ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://382b14499e3d76e557d449d2e5bbc4e4bd63bd39",
-"isHost": true
-},
-{
-"name": "M. LaLiga 4 1080",
-"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f",
 "isHost": true
 },
 {
