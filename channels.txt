@@ -14,8 +14,8 @@
 "isHost": true
 },
 {
-"name": "EVENTO UFC 1080 New Era",
-"image": "https://tjekpriser.dk/wp-content/uploads/2024/09/channels4_profile-300x300.jpg",
+"name": "FOX PREMIUM UFC 1080 New Era",
+"image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png",
 "url": "acestream://ade70f2c51cca519a4d8de1bb181af6e8532e1e1",
 "isHost": true
 },
@@ -173,6 +173,12 @@
 "name": "DAZN LaLiga 1080 New Era",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
 "url": "acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae",
+"isHost": true
+},
+{
+"name": "DAZN LaLiga 1080 New Loop",
+"image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
+"url": "acestream://99171f30c83bf7ab5df28b39607c91334cc60e4b",
 "isHost": true
 },
 {
