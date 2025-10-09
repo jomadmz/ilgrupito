@@ -20,6 +20,12 @@
 "isHost": true
 },
 {
+"name": "UFC 1080 New Era",
+"image": "https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png",
+"url": "acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64",
+"isHost": true
+},
+{
 "name": "#VAMOS 1080 ELCANO",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/640px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png",
 "url": "acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b",
@@ -104,9 +110,9 @@
 "isHost": true
 },
 {
-"name": "M. LaLiga 4K New Loop",
+"name": "M. LaLiga 1080 New Loop",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b",
+"url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
 "isHost": true
 },
 {
@@ -128,6 +134,12 @@
 "isHost": true
 },
 {
+"name": "M. LaLiga 2 1080 New Loop",
+"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
+"url": "acestream://b8eb9c9868d487402569bba2d97a8af113d033fe",
+"isHost": true
+},
+{
 "name": "M. LaLiga 2 720 ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8",
@@ -137,6 +149,18 @@
 "name": "M. LaLiga 3 1080 ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87",
+"isHost": true
+},
+{
+"name": "M. LaLiga 3 1080 New Loop",
+"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
+"url": "acestream://571ce113b9d600a145766443d7417eccab2e1846",
+"isHost": true
+},
+{
+"name": "M. LaLiga 4 1080 New Loop",
+"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
+"url": "acestream://22178d72e0f255dedd7e56f9474fea879289a6f1",
 "isHost": true
 },
 {
@@ -172,13 +196,19 @@
 {
 "name": "DAZN LaLiga 1080 New Era",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
-"url": "acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae",
+"url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
 "isHost": true
 },
 {
 "name": "DAZN LaLiga 1080 New Loop",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
-"url": "acestream://99171f30c83bf7ab5df28b39607c91334cc60e4b",
+"url": "acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618",
+"isHost": true
+},
+{
+"name": "DAZN LaLiga 1080 New Loop",
+"image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
+"url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
 "isHost": true
 },
 {
@@ -202,7 +232,7 @@
 {
 "name": "DAZN LaLiga 2 1080 New Era",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
-"url": "acestream://ae16a8f004b1287ee1f53263ab265f72bba0daf5",
+"url": "acestream://635b61c1f240449163260cd914d10d886a54fee3",
 "isHost": true
 },
 {
