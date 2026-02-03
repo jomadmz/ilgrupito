@@ -106,6 +106,12 @@
 {
 "name": "M. LaLiga 1080 New Era",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
+"url": "acestream://af458073c3096293a4dea9f369d4f308e7125bd6",
+"isHost": true
+},
+{
+"name": "M. LaLiga 1080 New Era",
+"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://107c3ce5a5d2527c9f06e4eab87477201791f231",
 "isHost": true
 },
