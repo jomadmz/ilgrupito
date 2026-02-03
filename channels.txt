@@ -26,7 +26,7 @@
 "isHost": true
 },
 {
-"name": "UFC 1080 New Era",
+"name": "UFC 1080 Sport TV",
 "image": "https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png",
 "url": "acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64",
 "isHost": true
@@ -34,7 +34,7 @@
 {
 "name": "#VAMOS 1080 ELCANO",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/640px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png",
-"url": "acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b",
+"url": "acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf",
 "isHost": true
 },
 {
@@ -44,9 +44,9 @@
 "isHost": true
 },
 {
-"name": "#VAMOS 720 ELCANO",
+"name": "#VAMOS 1080 New Era",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/640px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png",
-"url": "acestream://0e5d8c9724fa9163f49096b70484e315251eb785",
+"url": "acestream://651d6be899d1fafa107a265a9dc00ff914c1b548",
 "isHost": true
 },
 {
@@ -146,6 +146,12 @@
 "isHost": true
 },
 {
+"name": "M. LaLiga 2 1080 New Era",
+"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
+"url": "acestream://caa631e8850e3eb5e7c039063dd8a339ccef1176",
+"isHost": true
+},
+{
 "name": "M. LaLiga 2 1080 Sport TV",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://b8eb9c9868d487402569bba2d97a8af113d033fe",
@@ -161,6 +167,12 @@
 "name": "M. LaLiga 3 1080 ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87",
+"isHost": true
+},
+{
+"name": "M. LaLiga 3 1080 New Era",
+"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
+"url": "acestream://c9afaf4965ad627ea6983fec9f63e0c1e857028d",
 "isHost": true
 },
 {
@@ -190,7 +202,7 @@
 {
 "name": "DAZN LaLiga 1080 ELCANO",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
-"url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
+"url": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f",
 "isHost": true
 },
 {
@@ -215,6 +227,12 @@
 "name": "DAZN LaLiga 1080 New Era",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
 "url": "acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae",
+"isHost": true
+},
+{
+"name": "DAZN LaLiga 1080 New Era",
+"image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
+"url": "acestream://19f28f60c908f987b1a03da078e63320d7bf29e8",
 "isHost": true
 },
 {
@@ -260,6 +278,12 @@
 "isHost": true
 },
 {
+"name": "LaLiga Hypermotion 1080 ELCANO",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslmVLZKHOyJFQBKBb3JkztcAA8pLr8bDfpBMLcb3OMbsxftwrCwp-hX2hbNFtP7DrM_s&usqp=CAU",
+"url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
+"isHost": true
+},
+{
 "name": "LaLiga Hypermotion 1080 New Era",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslmVLZKHOyJFQBKBb3JkztcAA8pLr8bDfpBMLcb3OMbsxftwrCwp-hX2hbNFtP7DrM_s&usqp=CAU",
 "url": "acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a",
@@ -302,6 +326,12 @@
 "isHost": true
 },
 {
+"name": "Copa del Rey 1080 New Era",
+"image": "https://prod.adb.col.movistar.es/static/contenidos/copa-del-rey/copa-del-rey-2025-logo-competicion.jpg",
+"url": "acestream://28205d7c9776b96a1f479c9082e80bd1e18f5afd",
+"isHost": true
+},
+{
 "name": "M.Campeones 1080 ELCANO",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
 "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9",
@@ -316,7 +346,7 @@
 {
 "name": "M.Campeones 1080 ELCANO",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e",
+"url": "acestream://b028202ff335911db3118bceac027df3e8ef6c32",
 "isHost": true
 },
 {
@@ -364,7 +394,7 @@
 {
 "name": "M.Campeones 4K New Era",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://678a1e93fbfbd499c329886bfdda780e73ac1786",
+"url": "acestream://152169ce99e1fd27f2249c18384a121079cdef29",
 "isHost": true
 },
 {
@@ -382,7 +412,7 @@
 {
 "name": "M.Campeones 2 1080 ELCANO",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72",
+"url": "acestream://bb26037a253866d341778181eff5c8637240d615",
 "isHost": true
 },
 {
@@ -401,6 +431,18 @@
 "name": "M.Campeones 2 1080 New Era",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
 "url": "acestream://4b18a3b32df5960ed950fa907f8d509b1ad2a188",
+"isHost": true
+},
+{
+"name": "M.Campeones 2 1080 New Era",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb",
+"isHost": true
+},
+{
+"name": "M.Campeones 2 1080 New Era",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f",
 "isHost": true
 },
 {
@@ -779,12 +821,6 @@
 "name": "#Ellas 1080 New Era",
 "image": "https://satcesc.com/wp-content/uploads/2018/08/Ellas.jpg",
 "url": "acestream://594b59d435527327c9b6965f247995b907bfc285",
-"isHost": true
-},
-{
-"name": "Copa 1080 ELCANO",
-"image": "https://www.movistar.es/blog/wp-content/uploads/sites/3/2022/11/copa-del-rey_1040x650-v2.jpg",
-"url": "acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d",
 "isHost": true
 },
 {
