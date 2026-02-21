@@ -80,6 +80,12 @@
 "isHost": true
 },
 {
+"name": "M. La Liga 1080 ELCANO",
+"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
+"url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e",
+"isHost": true
+},
+{
 "name": "M. LaLiga 1080 ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://f863873de9f7b2996dde19a0657dd89835af3007",
