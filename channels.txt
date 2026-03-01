@@ -82,19 +82,19 @@
 {
 "name": "M. La Liga 1080 ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e",
+"url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74",
 "isHost": true
 },
 {
 "name": "M. LaLiga 1080 ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://f863873de9f7b2996dde19a0657dd89835af3007",
+"url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e",
 "isHost": true
 },
 {
 "name": "M. La Liga 1080 ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a",
+"url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947",
 "isHost": true
 },
 {
@@ -208,13 +208,13 @@
 {
 "name": "DAZN LaLiga 1080 ELCANO",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
-"url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
+"url": "acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889",
 "isHost": true
 },
 {
 "name": "DAZN LaLiga 1080 ELCANO",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
-"url": "acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889",
+"url": "acestream://4955867fad3bc92e5b4c36045699fc277800fb18",
 "isHost": true
 },
 {
@@ -230,18 +230,6 @@
 "isHost": true
 },
 {
-"name": "DAZN LaLiga 1080 New Era",
-"image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
-"url": "acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1",
-"isHost": true
-},
-{
-"name": "DAZN LaLiga 1080 New Era",
-"image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
-"url": "acestream://1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884",
-"isHost": true
-},
-{
 "name": "DAZN LaLiga 1080 Sport TV",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
 "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
@@ -251,6 +239,12 @@
 "name": "DAZN LaLiga 720 ELCANO",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
 "url": "acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9",
+"isHost": true
+},
+{
+"name": "DAZN LaLiga 720 ELCANO",
+"image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
+"url": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f",
 "isHost": true
 },
 {
