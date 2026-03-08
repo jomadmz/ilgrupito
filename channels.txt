@@ -136,7 +136,7 @@
 {
 "name": "M. LaLiga 2 1080 ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://b45cfe568e106a7df65c950805d6f123c989ce84",
+"url": "acestream://51b363b1c4d42724e05240ad068ad219df8042ec",
 "isHost": true
 },
 {
@@ -166,7 +166,7 @@
 {
 "name": "M. LaLiga 2 720 ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://b45cfe568e106a7df65c950805d6f123c989ce84",
+"url": "acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8",
 "isHost": true
 },
 {
