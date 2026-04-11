@@ -274,7 +274,7 @@
 {
 "name": "DAZN LaLiga 2 720 ELCANO",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
-"url": "acestream://a70a1605f69c8379e04094df96922a42adfbb431",
+"url": "acestream://c976c7b37964322752db562b4ad65515509c8d36",
 "isHost": true
 },
 {
