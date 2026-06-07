@@ -668,9 +668,9 @@
 "isHost": true
 },
 {
-"name": "PPVP",
-"image": "https://img.freepik.com/premium-vector/pvp-logo-pvp-letter-pvp-letter-logo-design-initials-pvp-logo-linked-with-circle-uppercase-monogram-logo-pvp-typography-technology-business-real-estate-brand_229120-82545.jpg",
-"url": "acestream://7cf437be950f3525e735be57c63f7824cab822c9",
+"name": "MOTO GP ELCANO",
+"image": "https://www.adslzone.net/app/uploads-adslzone.net/2026/02/motogp-dazn.jpg",
+"url": "acestream://342ca6975a4884d81f9fec5c4085a47060bd2028",
 "isHost": true
 }
 ]
