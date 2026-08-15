@@ -8,9 +8,9 @@
 "image": "https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg",
 "stations": [
 {
-"name": "UFC 1080 Sport TV",
-"image": "https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png",
-"url": "acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64",
+"name": "FOX Sports UFC 1080",
+"image": "https://images.seeklogo.com/logo-png/44/2/fox-sports-new-2022-logo-png_seeklogo-446018.png",
+"url": "acestream://ade70f2c51cca519a4d8de1bb181af6e8532e1e1",
 "isHost": true
 },
 {
@@ -28,7 +28,7 @@
 {
 "name": "#VAMOS 1080 New Era",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/640px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png",
-"url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+"url": "acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933",
 "isHost": true
 },
 {
@@ -52,13 +52,13 @@
 {
 "name": "Movistar Plus 1080 New Era",
 "image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
-"url": "acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b",
+"url": "acestream://fa931cbc87dc9d66fdd30a9644e054b403960056",
 "isHost": true
 },
 {
 "name": "Movistar Plus 1080 New Era",
 "image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
-"url": "acestream://fa931cbc87dc9d66fdd30a9644e054b403960056",
+"url": "acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4",
 "isHost": true
 },
 {
@@ -71,12 +71,6 @@
 "name": "M. LaLiga 1080 New Era",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://d4ff041287a43e3114d411d671c4b4e92e21f31e",
-"isHost": true
-},
-{
-"name": "M. LaLiga 1080 New Era",
-"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://af458073c3096293a4dea9f369d4f308e7125bd6",
 "isHost": true
 },
 {
@@ -116,27 +110,9 @@
 "isHost": true
 },
 {
-"name": "M. LaLiga 3 1080 New Era",
-"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://c9afaf4965ad627ea6983fec9f63e0c1e857028d",
-"isHost": true
-},
-{
 "name": "M. LaLiga 3 1080 Sport TV",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://571ce113b9d600a145766443d7417eccab2e1846",
-"isHost": true
-},
-{
-"name": "M. LaLiga 3 720 ELCANO",
-"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://382b14499e3d76e557d449d2e5bbc4e4bd63bd39",
-"isHost": true
-},
-{
-"name": "M. LaLiga 4 1080 ELCANO",
-"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://ef22f5802c2fa4cce93d209727758c0eb04fc351",
 "isHost": true
 },
 {
@@ -167,6 +143,11 @@
 "name": "DAZN LaLiga 1080 New Era",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
 "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
+"isHost": true
+},{
+"name": "DAZN LaLiga 1080 New Era",
+"image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
+"url": "acestream://19f28f60c908f987b1a03da078e63320d7bf29e8",
 "isHost": true
 },
 {
@@ -202,13 +183,7 @@
 {
 "name": "LaLiga Hypermotion 1080 New Era",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslmVLZKHOyJFQBKBb3JkztcAA8pLr8bDfpBMLcb3OMbsxftwrCwp-hX2hbNFtP7DrM_s&usqp=CAU",
-"url": "acestream://c457b5614df986a6e6a24ffd9547964820ca65fb",
-"isHost": true
-},
-{
-"name": "LaLiga Hypermotion 1080 New Era",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslmVLZKHOyJFQBKBb3JkztcAA8pLr8bDfpBMLcb3OMbsxftwrCwp-hX2hbNFtP7DrM_s&usqp=CAU",
-"url": "acestream://58b1c4b8cb65d648505b035a04e879672fcd8e3f",
+"url": "acestream://fc129b39c253b887563c3f0dce5fca7e699c3047",
 "isHost": true
 },
 {
@@ -232,7 +207,13 @@
 {
 "name": "Copa del Rey 1080 New Era",
 "image": "https://prod.adb.col.movistar.es/static/contenidos/copa-del-rey/copa-del-rey-2025-logo-competicion.jpg",
-"url": "acestream://28205d7c9776b96a1f479c9082e80bd1e18f5afd",
+"url": "acestream://4b9f813f30b4345fe555f9e218d828d76cd6ee88",
+"isHost": true
+},
+{
+"name": "Copa del Rey 1080 New Era",
+"image": "https://prod.adb.col.movistar.es/static/contenidos/copa-del-rey/copa-del-rey-2025-logo-competicion.jpg",
+"url": "acestream://63ad519ec9602ea12f7867cf15914b2537bbf04a",
 "isHost": true
 },
 {
@@ -250,25 +231,13 @@
 {
 "name": "M.Campeones 1080 New Era",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc",
+"url": "acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a",
 "isHost": true
 },
 {
 "name": "M.Campeones 1080 New Era",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
 "url": "acestream://afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f",
-"isHost": true
-},
-{
-"name": "M.Campeones 1080 New Era",
-"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0",
-"isHost": true
-},
-{
-"name": "M.Campeones 1080 New Era",
-"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a",
 "isHost": true
 },
 {
@@ -340,7 +309,7 @@
 {
 "name": "M.Campeones 3 1080 New Era",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d",
+"url": "acestream://66b373c0da20ac615996dbd1c340087f50a9a39e",
 "isHost": true
 },
 {
@@ -362,9 +331,9 @@
 "isHost": true
 },
 {
-"name": "1RFEF 1080 New Era",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/b/bd/20220907122619%21Logo_Primera_RFEF.png/120px-Logo_Primera_RFEF.png",
-"url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
+"name": "M.Campeones 5 1080 New Era",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5",
 "isHost": true
 },
 {
@@ -386,9 +355,9 @@
 "isHost": true
 },
 {
-"name": "DAZN 2 1080 New Era",
+"name": "DAZN 2 1080 Sport TV",
 "image": "https://i.ibb.co/v1RBCHL/DAZN2.jpg",
-"url": "acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35",
+"url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
 "isHost": true
 },
 {
@@ -448,19 +417,25 @@
 {
 "name": " DAZN F1 1080 New Era",
 "image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
-"url": "acestream://4bc6f4cb6697c1defc981c0afe1a4c3a62284aee",
+"url": "acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711",
 "isHost": true
 },
 {
-"name": " DAZN F1 1080 New Era",
+"name": " DAZN F1 4K New Era",
 "image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
-"url": "acestream://b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd",
+"url": "acestream://c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d",
 "isHost": true
 },
 {
 "name": " DAZN F1 1080 Sport TV",
 "image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
 "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
+"isHost": true
+},
+{
+"name": " DAZN F1 1080 Sport TV",
+"image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
+"url": "acestream://d65257bb934b73647374224fd62d836815804be2",
 "isHost": true
 },
 {
@@ -503,12 +478,6 @@
 "name": "ESPN US Sport TV",
 "image": "https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png",
 "url": "acestream://664eb5fe460b96941aed633959a845b185cd8394",
-"isHost":"true"
-},
-{
-"name": "ESPN US Sport TV",
-"image": "https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png",
-"url": "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442",
 "isHost":"true"
 },
 {
@@ -562,7 +531,13 @@
 {
 "name": "M. Deportes 1080 New Era",
 "image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
-"url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
+"url": "acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a",
+"isHost": true
+},
+{
+"name": "M. Deportes 1080 New Era",
+"image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
+"url": "acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d",
 "isHost": true
 },
 {
@@ -610,12 +585,6 @@
 {
 "name": "Caza y pesca 1080 New Era",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVHGvvOfOJ3cHAiJZ9p9H8DtnaSKFew9FzmQ&s",
-"url": "acestream://277a6fb47189db801c5b7b05ad89c690571f3e9c",
-"isHost": true
-},
-{
-"name": "Caza y pesca 1080 New Era",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVHGvvOfOJ3cHAiJZ9p9H8DtnaSKFew9FzmQ&s",
 "url": "acestream://8b9e46eb3a9b4ef23b7d3d86c73a0851580f8caa",
 "isHost": true
 },
@@ -638,9 +607,9 @@
 "isHost": true
 },
 {
-"name": "La 2 1080 ELCANO",
+"name": "La 2 1080 New Era",
 "image": "https://tvendirecto.online/wp-content/uploads/2021/11/la-2-en-directo.png",
-"url": "acestream://1acd38e6176c782f5184c8736e0cf7127b65798b",
+"url": "acestream://9934906503661142f97a044ae1509a294057c2ed",
 "isHost": true
 },
 {
@@ -650,15 +619,9 @@
 "isHost": true
 },
 {
-"name": "Telecinco 1080 ELCANO",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telecinco_2024_Logo.svg/1200px-Telecinco_2024_Logo.svg.png",
-"url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5",
-"isHost": true
-},
-{
-"name": "MOTO GP ELCANO",
-"image": "https://www.adslzone.net/app/uploads-adslzone.net/2026/02/motogp-dazn.jpg",
-"url": "acestream://342ca6975a4884d81f9fec5c4085a47060bd2028",
+"name": "TENNIS CHANNEL ELCANO",
+"image": "https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png",
+"url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
 "isHost": true
 }
 ]
