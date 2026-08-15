@@ -64,7 +64,13 @@
 {
 "name": "M. La Liga 1080 ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8",
+"url": "acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259",
+"isHost": true
+},
+{
+"name": "M. La Liga 1080 ELCANO",
+"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
+"url": "acestream://a64e02a6d914f098cbe1b724ff4f7aef83419a4a",
 "isHost": true
 },
 {
@@ -160,6 +166,12 @@
 "name": "DAZN LaLiga 1080 New Loop",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
 "url": "acestream://8a25653a2f774f4ae1062d38a30dcd714d304a3a",
+"isHost": true
+},
+{
+"name": "DAZN LaLiga 720 ELCANO",
+"image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
+"url": "acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9",
 "isHost": true
 },
 {
