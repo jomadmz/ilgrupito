@@ -64,19 +64,19 @@
 {
 "name": "M. La Liga 1080 ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://0febfb5cac3384f487d55c559bbfc877db2d0357",
-"isHost": true
-},
-{
-"name": "M. La Liga 1080 ELCANO",
-"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
-"url": "acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259",
+"url": "acestream://d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8",
 "isHost": true
 },
 {
 "name": "M. La Liga 1080 ELCANO",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://a64e02a6d914f098cbe1b724ff4f7aef83419a4a",
+"isHost": true
+},
+{
+"name": "M. La Liga 1080 ELCANO",
+"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
+"url": "acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259",
 "isHost": true
 },
 {
@@ -95,6 +95,18 @@
 "name": "M. LaLiga 1080 Sport TV",
 "image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
 "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
+"isHost": true
+},
+{
+"name": "M. LaLiga 720 ELCANO",
+"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
+"url": "acestream://f863873de9f7b2996dde19a0657dd89835af3007",
+"isHost": true
+},
+{
+"name": "M. LaLiga 720 ELCANO",
+"image": "https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg",
+"url": "acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a",
 "isHost": true
 },
 {
@@ -148,7 +160,7 @@
 {
 "name": "DAZN LaLiga 1080 ELCANO",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
-"url": "acestream://385abcf801b787eec6ed6624908758bb165c0a55",
+"url": "acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b",
 "isHost": true
 },
 {
@@ -183,6 +195,12 @@
 {
 "name": "DAZN LaLiga 720 ELCANO",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
+"url": "acestream://385abcf801b787eec6ed6624908758bb165c0a55",
+"isHost": true
+},
+{
+"name": "DAZN LaLiga 720 ELCANO",
+"image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
 "url": "acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9",
 "isHost": true
 },
@@ -208,12 +226,6 @@
 "name": "LaLiga Hypermotion 1080 ELCANO",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslmVLZKHOyJFQBKBb3JkztcAA8pLr8bDfpBMLcb3OMbsxftwrCwp-hX2hbNFtP7DrM_s&usqp=CAU",
 "url": "acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe",
-"isHost": true
-},
-{
-"name": "LaLiga Hypermotion 1080 ELCANO",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslmVLZKHOyJFQBKBb3JkztcAA8pLr8bDfpBMLcb3OMbsxftwrCwp-hX2hbNFtP7DrM_s&usqp=CAU",
-"url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
 "isHost": true
 },
 {
@@ -259,6 +271,12 @@
 "isHost": true
 },
 {
+"name": "M.Campeones 1080 ELCANO",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://91af434b0bb521189286f8cbbab1aed39d7536fe",
+"isHost": true
+},
+{
 "name": "M.Campeones 1080 New Era",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
 "url": "acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a",
@@ -280,6 +298,12 @@
 "name": "M.Campeones 720 ELCANO",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
 "url": "acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22",
+"isHost": true
+},
+{
+"name": "M.Campeones 720 ELCANO",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439",
 "isHost": true
 },
 {
