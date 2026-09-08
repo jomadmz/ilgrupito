@@ -373,9 +373,9 @@
 "isHost": true
 },
 {
-"name": "M.Campeones 3 1080 New Era",
+"name": "M.Campeones 3 1080 ELCANO",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://66b373c0da20ac615996dbd1c340087f50a9a39e",
+"url": "acestream://85a8e0675bc27ddfd403b8f72953c606d07a8de8",
 "isHost": true
 },
 {
@@ -388,6 +388,18 @@
 "name": "M.Campeones 3 1080 Sport TV",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
 "url": "acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373",
+"isHost": true
+},
+{
+"name": "M.Campeones 3 720 ELCANO",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://5b7f54b12e0f96ceba1299f44eac4b0f97403e4e",
+"isHost": true
+},
+{
+"name": "M.Campeones 3 720 ELCANO",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9",
 "isHost": true
 },
 {
