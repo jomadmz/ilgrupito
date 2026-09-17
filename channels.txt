@@ -160,6 +160,12 @@
 {
 "name": "DAZN LaLiga 1080 ELCANO",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
+"url": "acestream://9c588ac92554746c489bc553773d959f6d2dfd8e",
+"isHost": true
+},
+{
+"name": "DAZN LaLiga 1080 ELCANO",
+"image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
 "url": "acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b",
 "isHost": true
 },
@@ -190,6 +196,18 @@
 "name": "DAZN LaLiga 1080 New Loop",
 "image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
 "url": "acestream://8a25653a2f774f4ae1062d38a30dcd714d304a3a",
+"isHost": true
+},
+{
+"name": "DAZN LaLiga 1080 New Loop",
+"image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
+"url": "acestream://b119416386155a6b85e7d0c7cab3ab92c7bfb87c",
+"isHost": true
+},
+{
+"name": "DAZN LaLiga 1080 New Loop",
+"image": "https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg",
+"url": "acestream://5437f76710c6cf7769e4a101ee52a6f4d4b39745",
 "isHost": true
 },
 {
