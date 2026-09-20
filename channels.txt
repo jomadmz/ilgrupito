@@ -16,7 +16,7 @@
 {
 "name": "#VAMOS 1080 ELCANO",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/640px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png",
-"url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
+"url": "acestream://26159ba451167e962f4f9236ab4c7626f7eb4e49",
 "isHost": true
 },
 {
@@ -34,13 +34,13 @@
 {
 "name": "Movistar Plus 1080 ELCANO",
 "image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
-"url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
+"url": "acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb",
 "isHost": true
 },
 {
 "name": "Movistar Plus 1080 ELCANO",
 "image": "https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg",
-"url": "acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb",
+"url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
 "isHost": true
 },
 {
@@ -273,13 +273,13 @@
 {
 "name": "LaLiga Hypermotion 2 1080 ELCANO",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslmVLZKHOyJFQBKBb3JkztcAA8pLr8bDfpBMLcb3OMbsxftwrCwp-hX2hbNFtP7DrM_s&usqp=CAU",
-"url": "acestream://e63fbcafbfc9bcb7e1cffa1d2eea97cc77f7a198",
+"url": "acestream://a5b9d834ad92bfb80fe01bf89cc20bd68be199fb",
 "isHost": true
 },
 {
 "name": "LaLiga Hypermotion 3 1080 ELCANO",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslmVLZKHOyJFQBKBb3JkztcAA8pLr8bDfpBMLcb3OMbsxftwrCwp-hX2hbNFtP7DrM_s&usqp=CAU",
-"url": "acestream://589dfc625c0ddcd9960e40aaf8235ea58705f784",
+"url": "acestream://7efe62956b1f395161e217df1f438c8bf0d4416b",
 "isHost": true
 },
 {
@@ -441,7 +441,7 @@
 {
 "name": "M.Campeones 4 1080 ELCANO",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
-"url": "acestream://91ac4585368992720ec17ffa5b4389368c6dcac1",
+"url": "acestream://64f01629d4a19e70efd9e6778c397282ba087547",
 "isHost": true
 },
 {
@@ -513,7 +513,7 @@
 {
 "name": " DAZN F1 1080 ELCANO",
 "image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
-"url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
+"url": "acestream://895d08633bb22c2573281655cf3ca44de476cc73",
 "isHost": true
 },
 {
@@ -525,7 +525,7 @@
 {
 "name": " DAZN F1 1080 ELCANO",
 "image": "https://i.ibb.co/wKHbyS8/DAZNF1.jpg",
-"url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
+"url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
 "isHost": true
 },
 {
@@ -567,7 +567,7 @@
 {
 "name": " EUROSPORT 1 1080 ELCANO",
 "image": "https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg",
-"url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
+"url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
 "isHost": true
 },
 {
@@ -598,18 +598,6 @@
 "name": " EUROSPORT 2 1080 New Era",
 "image": "https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg",
 "url": "acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd",
-"isHost": true
-},
-{
-"name": "ESPN US Sport TV",
-"image": "https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png",
-"url": "acestream://664eb5fe460b96941aed633959a845b185cd8394",
-"isHost":"true"
-},
-{
-"name": "M+ Accion 1080 New Era",
-"image": "https://images.seeklogo.com/logo-png/49/2/accion-por-movistar-plus-logo-png_seeklogo-492846.png",
-"url": "acestream://f3a6d058791f0818a3301f9d5eeb60cfb54d905d",
 "isHost": true
 },
 {
@@ -649,12 +637,6 @@
 "isHost": true
 },
 {
-"name": "M. Deportes 1080 ELCANO",
-"image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
-"url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-"isHost": true
-},
-{
 "name": "M. Deportes 1080 New Era",
 "image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
 "url": "acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a",
@@ -675,13 +657,13 @@
 {
 "name": "M. Deportes 3 1080 ELCANO",
 "image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
-"url": "acestream://f4d9011721fad5098febbe4d7c078a582e176a01",
+"url": "acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810",
 "isHost": true
 },
 {
 "name": "M. Deportes 4 1080 ELCANO",
 "image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
-"url": "acestream://4abe06c5cce7cb3c6bef2c3bccaafefd3299794f",
+"url": "acestream://7bede102385c65a545db531af476ef18c31f6258",
 "isHost": true
 },
 {
@@ -693,19 +675,13 @@
 {
 "name": "M. Deportes 5 1080 ELCANO",
 "image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
-"url": "acestream://646a1ed4ece843de1979f7888cbdd4d937506a28",
+"url": "acestream://15ec214bb10925dadd16a1716bb2042af6008a93",
 "isHost": true
 },
 {
 "name": "M. Deportes 5 1080 New Era",
 "image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
 "url": "acestream://5913205fb6d6d162a50222709aab6129eb7cf916",
-"isHost": true
-},
-{
-"name": "M. Deportes 6 1080 ELCANO",
-"image": "https://i.ibb.co/pQDH7Xz/Deportes.jpg",
-"url": "acestream://e6cd9205e26b3b6680f607030c702e911272524a",
 "isHost": true
 },
 {
@@ -718,30 +694,6 @@
 "name": "OneToro TV 1080 New Era",
 "image": "https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png",
 "url": "acestream://889db6c87a28fd5b3092333b63bcdddf05d26216",
-"isHost": true
-},
-{
-"name": "La 1 1080 ELCANO",
-"image": "https://tvguia.info/wp-content/uploads/2021/11/La-1-TVE1.png",
-"url": "acestream://37c7e8bbc2fb95d29a063bef2e569ad3858f8edd",
-"isHost": true
-},
-{
-"name": "La 1 4K ELCANO",
-"image": "https://tvguia.info/wp-content/uploads/2021/11/La-1-TVE1.png",
-"url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
-"isHost": true
-},
-{
-"name": "La 2 1080 New Era",
-"image": "https://tvendirecto.online/wp-content/uploads/2021/11/la-2-en-directo.png",
-"url": "acestream://9934906503661142f97a044ae1509a294057c2ed",
-"isHost": true
-},
-{
-"name": "Cuatro 1080 New Era",
-"image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cuatro_2012.png",
-"url": "acestream://8d66979e705a8b532b9243bbc0862c0f1c734ef0",
 "isHost": true
 },
 {
