@@ -714,6 +714,18 @@
 "url": "acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea",
 "isHost": true
 }
+{
+"name": "Canelo 1080 ELCANO",
+"image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Azteca_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+"url": "acestream://287471effa773e3c446b9c362b8f85c4d320fc9f",
+"isHost": true
+}
+{
+"name": "Canelo 1080 ELCANO",
+"image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Azteca_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+"url": "acestream://8312ad2377fa962bec5ee464e12c8503b279d5ca",
+"isHost": true
+}
 ]
 },
 ]
