@@ -720,12 +720,6 @@
 "url": "acestream://287471effa773e3c446b9c362b8f85c4d320fc9f",
 "isHost": true
 }
-{
-"name": "Canelo 1080 ELCANO",
-"image": "https://images.seeklogo.com/logo-png/14/1/tv-azteca-logo-png_seeklogo-143426.png",
-"url": "acestream://8312ad2377fa962bec5ee464e12c8503b279d5ca",
-"isHost": true
-}
 ]
 },
 ]
