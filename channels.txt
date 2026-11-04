@@ -357,6 +357,12 @@
 {
 "name": "M.Campeones 2 1080 ELCANO",
 "image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
+"url": "acestream://1f740f14c7a5c02b6c6e64f089b6005498bfd217",
+"isHost": true
+},
+{
+"name": "M.Campeones 2 1080 ELCANO",
+"image": "https://i.ibb.co/5KjsjJW/Campeones.jpg",
 "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
 "isHost": true
 },
